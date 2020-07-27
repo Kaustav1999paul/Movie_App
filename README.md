@@ -1,16 +1,12 @@
-# movie_app
+# Movie App
 
-A new Flutter project.
+A new Flutter project which is used to get updated details about different movies across the world.
 
-## Getting Started
+<img srt="gVZIvphd.jpg"/>
 
-This project is a starting point for a Flutter application.
+This application is supported both for Android and iOS platform. The data of different movies are fetched from "The MovieDB" API.
 
-A few resources to get you started if this is your first Flutter project:
+# Screenshot 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="home.png" height="400"/>
+<img src="details.png" heignt="400"/>
