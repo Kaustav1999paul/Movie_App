@@ -8,5 +8,5 @@ This application is supported both for Android and iOS platform. The data of dif
 
 # Screenshot 
 
-<img src="home.png" height="400"/>
-<img src="details.png" height="200"/>
+<img src="home.png" height="400"/><img src="details.png" height="400"/>
+
